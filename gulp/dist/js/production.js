@@ -1,0 +1,1 @@
+var b="carrousel",c="un autre carroussel",a="slider",d="test";
